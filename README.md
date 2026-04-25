@@ -182,7 +182,7 @@ http://localhost:8080/ConsultorioOdontologico/login.jsp
 
 | Login | Dashboard |
 |---|---|
-| ![Login](img/screenshot-login.png) | ![Dashboard](img/screenshot-dashboard.png) |
+| ![Login](Login.png) | ![Dashboard](img/screenshot-dashboard.png) |
 
 ---
 
